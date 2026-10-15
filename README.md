@@ -26,6 +26,8 @@ To load and show ads, Google may collect and use information such as your device
 
 You can control ad personalization and reset or delete your advertising ID in your device's Google or Ads settings.
 
+Where the law requires it (for example in the European Economic Area and the United Kingdom), SubSpy shows a consent message, provided by Google's User Messaging Platform, before any ads are requested. You can change your choice at any time from the app menu under "Privacy settings".
+
 Other than Google AdMob, SubSpy does not include third-party analytics, tracking or crash-reporting services.
 
 # 5. Permissions the app uses
