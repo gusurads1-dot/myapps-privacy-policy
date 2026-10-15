@@ -1,103 +1,64 @@
 # Privacy Policy
 
-This privacy policy applies to the SubSpy app for mobile devices, together with any related services operated by Bakerosoft (collectively, the "Application"). Bakerosoft is hereby referred to as the "Service Provider".
+App: SubSpy (Android) Developer: Bakerosoft ("we", "us") Effective date: October 15, 2026 Contact: gusurads1@gmail.com
 
-# Information Collection and Use
+This policy explains what SubSpy does with information. In short: SubSpy has no accounts, your subscription list stays on your phone, and the only outside service that handles data is Google AdMob, which shows an optional ad.
 
-The Application collects information when you download and use it. This information may include information such as
+# 1. Information stored on your device
 
-*   Your device's Internet Protocol address
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   your mobile operating system you use
+SubSpy lets you record subscriptions and free trials, such as the name, price, billing cycle, next billing or trial end date, category, icon and color. It also stores your settings (theme and currency) and the date you last watched a support ad.
 
-# Cookies and tracking technologies
+This information is stored only on your device. We do not upload it to any server, and we cannot see it.
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+# 2. Reminders and notifications
 
-# Your Rights
+SubSpy asks for permission to show notifications so it can remind you before a renewal or trial end. Reminders are created and shown on your device. SubSpy also listens for your phone restarting, only so it can restore your scheduled reminders afterwards. You can turn notifications off at any time in your phone's settings.
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at gusurads1@gmail.com.
+# 3. Backup and restore
 
-# Your California privacy rights (CCPA/CPRA)
+You can export your subscriptions to a file (JSON or CSV) and save it in a location you choose, and you can restore from a backup file you select. These files are created and read on your device. We do not receive them. If you share or store a backup file somewhere, it is up to you to protect it.
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at gusurads1@gmail.com.
+# 4. Advertising (Google AdMob)
 
-The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
+SubSpy includes an optional feature called "Watch an Ad to Support Us". If you choose it, a rewarded video ad is shown, using the Google Mobile Ads SDK from Google AdMob. The feature is limited to once per day, and the date of your last view is stored only on your device.
 
-For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information the Service Provider requests will be retained and used as described in this privacy policy.
+To load and show ads, Google may collect and use information such as your device's advertising ID, IP address, device and app information (for example device model and operating system version), and how you interact with ads. This data is handled by Google under Google's own policies: https://policies.google.com/technologies/partner-sites
 
-# Third Party Access
+You can control ad personalization and reset or delete your advertising ID in your device's Google or Ads settings.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Other than Google AdMob, SubSpy does not include third-party analytics, tracking or crash-reporting services.
 
-# International Data Transfers
+# 5. Permissions the app uses
 
-The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
+  * Notifications: to show your renewal and trial reminders.
+  * Internet access: used to load ads.
+  * Receive boot completed: to restore scheduled reminders after your phone restarts.
+  * Vibrate: so notifications can vibrate if your phone settings allow it.
 
-*   Standard Contractual Clauses (SCCs) approved by the European Commission
-*   Adequacy decisions or other legally recognized transfer mechanisms
-*   Your consent, where required and legally permitted
+# 6. Do we sell or share your data?
 
-Data protection laws in other countries may differ from those in your jurisdiction. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
+We do not receive your subscription data, and we do not sell personal information. The only sharing happens between your device and Google AdMob as described in section 4.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+# 7. Children
 
-*   [AdMob](https://policies.google.com/technologies/partner-sites)
+SubSpy is not directed to children under 16, and we do not knowingly collect personal information from children. If you believe a child has provided personal information through SubSpy, contact us at the address above.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+# 8. Data retention and deletion
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Because your subscription data stays on your device, you control it. You can delete individual subscriptions inside the app, or remove everything by uninstalling SubSpy. Backup files you exported remain wherever you saved them until you delete them. Data handled by Google AdMob is retained according to Google's policies.
 
-# Opt-Out Rights
+# 9. Your rights
 
-You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+Depending on where you live (for example the European Economic Area, the United Kingdom or California), you may have rights to access, correct or delete personal data, or to object to certain processing. We do not hold personal data from the app, so there is generally nothing for us to access or delete. For advertising data held by Google, you can use your device's ad settings or contact Google. You can also contact us at gusurads1@gmail.com with any privacy request.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at gusurads1@gmail.com.
+# 10. Security
 
-# Data Retention Policy
+Your data is kept on your device and protected by your phone's own security features, such as your screen lock. No method of storage is completely secure, so please keep your device and any backup files safe.
 
-The Service Provider retains personal data based on its necessity for the stated purposes:
+# 11. Changes to this policy
 
-*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
-*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
-*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
-*   Data required for legal compliance: Retained as long as required by applicable law
+We may update this policy from time to time. The updated version will be posted on this page with a new effective date.
 
-You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at gusurads1@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
+# 12. Contact
 
-# Children
-
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
-
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (gusurads1@gmail.com) so that they will be able to take the necessary actions.
-
-# Security
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-# Data Breach Notification
-
-If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements, including, where required, providing information about the nature of the breach and the steps being taken to address it.
-
-# Changes
-
-The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
-
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at gusurads1@gmail.com.
-
-This privacy policy is effective as of 2026-09-09
-
-# Your Consent
-
-Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
-
-# Contact Us
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at gusurads1@gmail.com.
-
-* * *
-
-<span>This privacy policy page was generated by</span> [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have questions about this policy, email us at gusurads1@gmail.com.
