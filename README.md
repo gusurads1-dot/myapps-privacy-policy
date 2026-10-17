@@ -22,7 +22,7 @@ You can export your subscriptions to a file (JSON or CSV) and save it in a locat
 
 SubSpy includes an optional feature called "Watch an Ad to Support Us". If you choose it, a rewarded video ad is shown, using the Google Mobile Ads SDK from Google AdMob. The feature is limited to once per day, and the date of your last view is stored only on your device.
 
-To load and show ads, Google may collect and use information such as your device's advertising ID, IP address, device and app information (for example device model and operating system version), and how you interact with ads. This data is handled by Google under Google's own policies: https://policies.google.com/technologies/partner-sites
+To load and show ads, the Google Mobile Ads SDK may collect and share with Google the following information: your device's advertising ID and app set ID, your IP address (which may be used to estimate your general location), interactions with the app and ads (such as app launches, taps and video views), and diagnostic information about the performance of the app and the SDK. Google uses this for advertising, analytics and fraud prevention. This data is handled by Google under Google's own policies: https://policies.google.com/technologies/partner-sites
 
 You can control ad personalization and reset or delete your advertising ID in your device's Google or Ads settings.
 
